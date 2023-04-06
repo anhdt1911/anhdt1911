@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anhdt1911
-- 👀 I’m interested in everythings
-- 🌱 I’m currently js and its framework
+- 👋 Hi there, I’m @anhdt1911
+- 👀 I’m interested in learning new things
+- 🌱 Typescript, Rust and Golang
 - 📫 How to reach me : anhdt1911.work@gmail.com
 
 <!---
